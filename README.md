@@ -1,4 +1,5 @@
 # Crawling-Worms
+TypeScript / Webpack / Socket.io / Babel
 Multiplayer versus snake game. No apples, one rule... Be as long as possible
 
 ## install dependiences
